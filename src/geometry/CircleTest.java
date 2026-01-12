@@ -1,6 +1,6 @@
 package geometry;
 
-public class CircleTest {
+class CircleTest {
     public static void main(String[] args) {
         Circle c1 = new Circle(0, 0, 5);
         Circle c2 = new Circle(3, 0, 2);
